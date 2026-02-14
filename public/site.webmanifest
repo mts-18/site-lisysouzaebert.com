@@ -1,0 +1,21 @@
+{
+  "name": "Lisy Souza Ebert - Terapias Espirituais",
+  "short_name": "Lisy Souza Ebert",
+  "description": "Terapias espirituais e desenvolvimento pessoal para transformação e autoconhecimento",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "theme_color": "#FFD700",
+  "background_color": "#000000",
+  "display": "standalone",
+  "start_url": "/"
+}
