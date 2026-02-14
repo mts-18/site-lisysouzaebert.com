@@ -29,8 +29,8 @@ Site profissional para terapeuta holística, desenvolvido com React, TypeScript 
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITORIO]
-cd site-lisy
+git clone https://github.com/mts-18/site-lisysouzaebert.com.git
+cd site-lisysouzaebert.com
 ```
 
 2. Instale as dependências:
